@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
   },
@@ -14,5 +18,9 @@
   {
     "repository": "android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common"
+  },
+  {
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
   }
 ]
